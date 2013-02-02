@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Version History
+        version 1 - initial version.
+-->
+<login_config version="1">
+    <!-- Flag indicating if Save Username field should be displayed -->
+    <bool name="showSaveUsername">true</bool>
+    
+</login_config>
