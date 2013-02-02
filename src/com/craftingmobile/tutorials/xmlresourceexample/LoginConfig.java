@@ -7,7 +7,8 @@ import org.xmlpull.v1.XmlPullParserException;
 
 import android.content.Context;
 import android.content.res.XmlResourceParser;
-import android.util.Log;
+
+import com.craftingmobile.util.Log;
 
 public class LoginConfig {
     private static final String TAG               = "LoginConfig";
